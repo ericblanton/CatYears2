@@ -1,0 +1,810 @@
+TCatYears2
+v7
+r0
+t316713956.770583
+cCheck dependencies
+cCpResource build/Distribution-iphoneos/CatYears2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Info.plist CatYears2-Info.plist
+cCompileXIB /Users/ericblanton/Documents/CatYears2/MainWindow.xib
+cCompileXIB /Users/ericblanton/Documents/CatYears2/CatYears2ViewController.xib
+cCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 1.22.39 PM.png" "Screen shot 2010-12-22 at 1.22.39 PM.png"
+cCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 1.57.53 PM.png" "Screen shot 2010-12-22 at 1.57.53 PM.png"
+cCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 2.05.02 PM.png" "Screen shot 2010-12-22 at 2.05.02 PM.png"
+cCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 2.07.24 PM.png" "Screen shot 2010-12-22 at 2.07.24 PM.png"
+cCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 3.55.49 PM.png" "Screen shot 2010-12-22 at 3.55.49 PM.png"
+cCopyPNGFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/SugarButton.png SugarButton.png
+cCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 8.30.49 PM.png" "Screen shot 2010-12-22 at 8.30.49 PM.png"
+cCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 9.27.50 PM.png" "Screen shot 2010-12-22 at 9.27.50 PM.png"
+cCopyPNGFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon.png Icon.png
+cCopyPNGFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Default.png Default.png
+cCopyPNGFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon-72.png Icon-72.png
+cCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Sugar Button.png" "Sugar Button.png"
+cCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.26.58 PM.png" "Screen shot 2011-01-01 at 12.26.58 PM.png"
+cCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.23.28 PM.png" "Screen shot 2011-01-01 at 12.23.28 PM.png"
+cCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.29.42 PM.png" "Screen shot 2011-01-01 at 12.29.42 PM.png"
+cCopyPNGFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon@2x.png Icon@2x.png
+cProcessPCH /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ejhpazorfwqobmbagpthjwzgqulu/CatYears2_Prefix.pch.gch CatYears2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ekmsrixxjeggjbaadgqhdqtvpcld/CatYears2_Prefix.pch.gch CatYears2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/main.o /Users/ericblanton/Documents/CatYears2/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2AppDelegate.o /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2ViewController.o /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2 normal armv6
+cCompileC build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/main.o /Users/ericblanton/Documents/CatYears2/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2AppDelegate.o /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2ViewController.o /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2 normal armv7
+cCreateUniversalBinary /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/CatYears2 normal "armv6 armv7"
+cGenerateDSYMFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app.dSYM /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/CatYears2
+cProcessProductPackaging "/Users/ericblanton/Library/MobileDevice/Provisioning Profiles/C9123998-BF0B-48A8-A273-375C3C83320A.mobileprovision" /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/embedded.mobileprovision
+cTouch /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2.xcent
+cCodeSign /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app
+cValidate /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/iAd.framework/Headers/iAd.h
+c000000004C6C32360000000000000071
+t1282159158
+s113
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004C6C32410000000000099800
+t1282159169
+s628736
+
+N/Users/ericblanton/Documents/CatYears2/CatYears2ViewController.xib
+c000000004D2D0E7F000000000000A038
+t1294798463
+s41016
+
+N/Users/ericblanton/Documents/CatYears2/CatYears2_Prefix.pch
+c000000004D12425700000000000000BB
+t1293042263
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.h
+c000000004D12425700000000000001EC
+t1293042263
+s492
+i<UIKit/UIKit.h>
+
+N/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m
+c000000004D12AC960000000000000AA3
+t1293069462
+s2723
+i"CatYears2AppDelegate.h"
+i"CatYears2ViewController.h"
+
+N/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h
+c000000004D126F470000000000000284
+t1293053767
+s644
+i<UIKit/UIKit.h>
+i<iAd/iAd.h>
+
+N/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m
+c000000004D2D0E0C0000000000001710
+t1294798348
+s5904
+i"CatYears2ViewController.h"
+
+N/Users/ericblanton/Documents/CatYears2/Default.png
+c000000004D12BB4800000000000294AB
+t1293073224
+s169131
+
+N/Users/ericblanton/Documents/CatYears2/Icon-72.png
+c000000004D1359CC0000000000003C5A
+t1293113804
+s15450
+
+N/Users/ericblanton/Documents/CatYears2/Icon.png
+c000000004D12B9FE0000000000002C77
+t1293072894
+s11383
+
+N/Users/ericblanton/Documents/CatYears2/Icon@2x.png
+c000000004D12B9FE0000000000002C77
+t1293072894
+s11383
+
+N/Users/ericblanton/Documents/CatYears2/MainWindow.xib
+c000000004D1242570000000000004E41
+t1293042263
+s20033
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 1.22.39 PM.png
+c000000004D1242370000000000019CBA
+t1293042231
+s105658
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 1.57.53 PM.png
+c000000004D124A660000000000020157
+t1293044326
+s131415
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 2.05.02 PM.png
+c000000004D124C11000000000002111A
+t1293044753
+s135450
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 2.07.24 PM.png
+c000000004D124C9D00000000000214DD
+t1293044893
+s136413
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 3.55.49 PM.png
+c000000004D126630000000000001E2D2
+t1293051440
+s123602
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 8.30.49 PM.png
+c000000004D12A6910000000000022F9D
+t1293067921
+s143261
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 9.27.50 PM.png
+c000000004D12B3D800000000000235BC
+t1293071320
+s144828
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2011-01-01 at 12.23.28 PM.png
+c000000004D1F6358000000000001EBD1
+t1293902680
+s125905
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2011-01-01 at 12.26.58 PM.png
+c000000004D1F6412000000000002364F
+t1293902866
+s144975
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2011-01-01 at 12.29.42 PM.png
+c000000004D1F64C4000000000002A921
+t1293903044
+s174369
+
+N/Users/ericblanton/Documents/CatYears2/Sugar Button.png
+c000000004D138B1300000000000052FE
+t1293126419
+s21246
+
+N/Users/ericblanton/Documents/CatYears2/SugarButton.png
+c000000004D126753000000000000535C
+t1293051731
+s21340
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2.xcent
+t1294798650
+s465
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2
+t1294798650
+s24856
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2.LinkFileList
+c000000004D135AB300000000000001A0
+t1293114035
+s416
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2AppDelegate.o
+t1294798649
+s48700
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2ViewController.o
+t1294798649
+s56492
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/main.o
+t1294798649
+s6444
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2
+t1294798650
+s24856
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2.LinkFileList
+c000000004D135AB300000000000001A0
+t1293114035
+s416
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2AppDelegate.o
+t1294798649
+s48712
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2ViewController.o
+t1294798649
+s57416
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/main.o
+t1294798649
+s6424
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app
+t1295021156
+s918
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app.dSYM
+t1294798650
+s102
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/CatYears2
+t1294798650
+s67728
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/CatYears2ViewController.nib
+t1294798647
+s4103
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Default.png
+t1293114038
+s157669
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon-72.png
+t1293114038
+s14988
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon.png
+t1293114038
+s11134
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon@2x.png
+t1294798750
+s11134
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Info.plist
+t1294798646
+s854
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/MainWindow.nib
+t1294798647
+s1127
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/PkgInfo
+t1294798646
+s8
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/ResourceRules.plist
+t1293114035
+s485
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 1.22.39 PM.png
+t1293114037
+s93356
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 1.57.53 PM.png
+t1293114037
+s118457
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 2.05.02 PM.png
+t1293114037
+s121212
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 2.07.24 PM.png
+t1293114037
+s122085
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 3.55.49 PM.png
+t1293114037
+s118523
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 8.30.49 PM.png
+t1293114038
+s128582
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 9.27.50 PM.png
+t1293114038
+s130496
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.23.28 PM.png
+t1294798647
+s122657
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.26.58 PM.png
+t1294798647
+s130677
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.29.42 PM.png
+t1294798648
+s163751
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Sugar Button.png
+t1293126930
+s24187
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/SugarButton.png
+t1293114037
+s24201
+
+N/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/embedded.mobileprovision
+t1293114157
+s7128
+
+N/Users/ericblanton/Documents/CatYears2/main.m
+c000000004D124257000000000000016C
+t1293042263
+s364
+i<UIKit/UIKit.h>
+
+N/Users/ericblanton/Library/MobileDevice/Provisioning Profiles/5D81DBF0-A9A8-4236-ACA7-F2CAC893D6A0.mobileprovision
+c000000004D0931970000000000001C58
+t1292448151
+s7256
+
+N/Users/ericblanton/Library/MobileDevice/Provisioning Profiles/C9123998-BF0B-48A8-A273-375C3C83320A.mobileprovision
+c000000004CBF119A0000000000001BD8
+t1287590298
+s7128
+
+N/var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-bcpuexldkfytvzcrtfmmmdihzcal/CatYears2_Prefix.pch.gch
+t1293114039
+s9659952
+
+N/var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-bzayhfzzfdmpcebrurahtievwuup/CatYears2_Prefix.pch.gch
+t1293114040
+s10114608
+
+N/var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ejhpazorfwqobmbagpthjwzgqulu/CatYears2_Prefix.pch.gch
+t1294798648
+s9639472
+
+N/var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ekmsrixxjeggjbaadgqhdqtvpcld/CatYears2_Prefix.pch.gch
+t1294798649
+s10094128
+
+NCatYears2-Info.plist
+c000000004D2D0F360000000000000409
+t1294798646
+s1033
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316713955#316713955#0(0"0(0#1#0"8624383488#0"0#
+
+CCodeSign /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app
+s316713955.519746
+e316713956.140023
+r1
+xCodeSign
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app
+o/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app: replacing existing signature
+lSLF07#2@50"CodeSign build/Distribution-iphoneos/CatYears2.app316713955#316713956#0(111"/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app: replacing existing signature0(0#0#80"/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app8608488064#673"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Distribution: Sugar Coded Apps" --resource-rules=/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/ResourceRules.plist --entitlements /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2.xcent /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app0#
+
+CCompileC build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2AppDelegate.o /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316491449.192991
+e316491449.321380
+r1
+xCompileC
+xbuild/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2AppDelegate.o
+x/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m: In function '-[CatYears2AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m:23: warning: implicit declaration of function 'sleep'
+lSLF07#2@77"Compile /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m316491449#316491449#0(277"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m: In function '-[CatYears2AppDelegate application:didFinishLaunchingWithOptions:]':/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m:23: warning: implicit declaration of function 'sleep'1(22@40"Implicit declaration of function 'sleep'316491449#153#124#0(6@69"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m314762262#23#0#23#0#36"implicit declaration of function '*'0(0#0#69"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m8617586560#1908"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -I/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources/armv6 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ejhpazorfwqobmbagpthjwzgqulu/CatYears2_Prefix.pch -c /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m -o /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2AppDelegate.o0#
+
+CCompileC build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2ViewController.o /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316491449.302195
+e316491449.586150
+r1
+xCompileC
+xbuild/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2ViewController.o
+x/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m316491449#316491449#0(0"0(0#0#72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m7083932847239164928#1914"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -I/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources/armv6 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ejhpazorfwqobmbagpthjwzgqulu/CatYears2_Prefix.pch -c /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m -o /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2ViewController.o0#
+
+CCompileC build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/main.o /Users/ericblanton/Documents/CatYears2/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316491449.191630
+e316491449.302084
+r1
+xCompileC
+xbuild/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/main.o
+x/Users/ericblanton/Documents/CatYears2/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/ericblanton/Documents/CatYears2/main.m316491449#316491449#0(0"0(0#0#45"/Users/ericblanton/Documents/CatYears2/main.m8620383712#1868"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -I/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources/armv6 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ejhpazorfwqobmbagpthjwzgqulu/CatYears2_Prefix.pch -c /Users/ericblanton/Documents/CatYears2/main.m -o /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2AppDelegate.o /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316491449.429585
+e316491449.533746
+r1
+xCompileC
+xbuild/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2AppDelegate.o
+x/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m: In function '-[CatYears2AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m:23: warning: implicit declaration of function 'sleep'
+lSLF07#2@77"Compile /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m316491449#316491449#0(277"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m: In function '-[CatYears2AppDelegate application:didFinishLaunchingWithOptions:]':/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m:23: warning: implicit declaration of function 'sleep'1(22@40"Implicit declaration of function 'sleep'316491449#153#124#0(6@69"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m314762262#23#0#23#0#36"implicit declaration of function '*'0(0#0#69"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m8616989344#1908"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -I/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources/armv7 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ekmsrixxjeggjbaadgqhdqtvpcld/CatYears2_Prefix.pch -c /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m -o /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2AppDelegate.o0#
+
+CCompileC build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2ViewController.o /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316491449.533837
+e316491449.745165
+r1
+xCompileC
+xbuild/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2ViewController.o
+x/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m316491449#316491449#0(0"0(0#0#72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m8616216352#1914"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -I/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources/armv7 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ekmsrixxjeggjbaadgqhdqtvpcld/CatYears2_Prefix.pch -c /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m -o /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2ViewController.o0#
+
+CCompileC build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/main.o /Users/ericblanton/Documents/CatYears2/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316491449.321556
+e316491449.429490
+r1
+xCompileC
+xbuild/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/main.o
+x/Users/ericblanton/Documents/CatYears2/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/ericblanton/Documents/CatYears2/main.m316491449#316491449#0(0"0(0#0#45"/Users/ericblanton/Documents/CatYears2/main.m8615931808#1868"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -I/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources/armv7 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ekmsrixxjeggjbaadgqhdqtvpcld/CatYears2_Prefix.pch -c /Users/ericblanton/Documents/CatYears2/main.m -o /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/ericblanton/Documents/CatYears2/CatYears2ViewController.xib
+s316491446.718304
+e316491447.400364
+r1
+xCompileXIB
+x/Users/ericblanton/Documents/CatYears2/CatYears2ViewController.xib
+lSLF07#2@38"CompileXIB CatYears2ViewController.xib316491446#316491447#0(0"0(0#0#66"/Users/ericblanton/Documents/CatYears2/CatYears2ViewController.xib8615607808#577"    cd /Users/ericblanton/Documents/CatYears2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/CatYears2ViewController.nib /Users/ericblanton/Documents/CatYears2/CatYears2ViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/ericblanton/Documents/CatYears2/MainWindow.xib
+s316491446.717520
+e316491447.220044
+r1
+xCompileXIB
+x/Users/ericblanton/Documents/CatYears2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316491446#316491447#0(0"0(0#0#53"/Users/ericblanton/Documents/CatYears2/MainWindow.xib8615882272#551"    cd /Users/ericblanton/Documents/CatYears2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/MainWindow.nib /Users/ericblanton/Documents/CatYears2/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 1.22.39 PM.png" "Screen shot 2010-12-22 at 1.22.39 PM.png"
+s314806836.741778
+e314806837.252694
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 1.22.39 PM.png
+xScreen shot 2010-12-22 at 1.22.39 PM.png
+lSLF07#2@139"CopyPNGFile "build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 1.22.39 PM.png" "Screen shot 2010-12-22 at 1.22.39 PM.png"314806836#314806837#0(0"0(0#0#79"/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 1.22.39 PM.png8638906816#633"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 1.22.39 PM.png" "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 1.22.39 PM.png"0#
+
+CCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 1.57.53 PM.png" "Screen shot 2010-12-22 at 1.57.53 PM.png"
+s314806836.875642
+e314806837.314022
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 1.57.53 PM.png
+xScreen shot 2010-12-22 at 1.57.53 PM.png
+lSLF07#2@139"CopyPNGFile "build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 1.57.53 PM.png" "Screen shot 2010-12-22 at 1.57.53 PM.png"314806836#314806837#0(0"0(0#0#79"/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 1.57.53 PM.png8638543168#633"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 1.57.53 PM.png" "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 1.57.53 PM.png"0#
+
+CCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 2.05.02 PM.png" "Screen shot 2010-12-22 at 2.05.02 PM.png"
+s314806837.252799
+e314806837.543909
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 2.05.02 PM.png
+xScreen shot 2010-12-22 at 2.05.02 PM.png
+lSLF07#2@139"CopyPNGFile "build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 2.05.02 PM.png" "Screen shot 2010-12-22 at 2.05.02 PM.png"314806837#314806837#0(0"0(0#0#79"/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 2.05.02 PM.png8638619840#633"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 2.05.02 PM.png" "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 2.05.02 PM.png"0#
+
+CCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 2.07.24 PM.png" "Screen shot 2010-12-22 at 2.07.24 PM.png"
+s314806837.314189
+e314806837.619084
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 2.07.24 PM.png
+xScreen shot 2010-12-22 at 2.07.24 PM.png
+lSLF07#2@139"CopyPNGFile "build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 2.07.24 PM.png" "Screen shot 2010-12-22 at 2.07.24 PM.png"314806837#314806837#0(0"0(0#0#79"/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 2.07.24 PM.png8632919616#633"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 2.07.24 PM.png" "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 2.07.24 PM.png"0#
+
+CCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 3.55.49 PM.png" "Screen shot 2010-12-22 at 3.55.49 PM.png"
+s314806837.544003
+e314806837.767290
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 3.55.49 PM.png
+xScreen shot 2010-12-22 at 3.55.49 PM.png
+lSLF07#2@139"CopyPNGFile "build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 3.55.49 PM.png" "Screen shot 2010-12-22 at 3.55.49 PM.png"314806837#314806837#0(0"0(0#0#79"/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 3.55.49 PM.png8640315328#633"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 3.55.49 PM.png" "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 3.55.49 PM.png"0#
+
+CCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 8.30.49 PM.png" "Screen shot 2010-12-22 at 8.30.49 PM.png"
+s314806837.702175
+e314806838.019437
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 8.30.49 PM.png
+xScreen shot 2010-12-22 at 8.30.49 PM.png
+lSLF07#2@139"CopyPNGFile "build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 8.30.49 PM.png" "Screen shot 2010-12-22 at 8.30.49 PM.png"314806837#314806838#0(0"0(0#0#79"/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 8.30.49 PM.png8637210592#633"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 8.30.49 PM.png" "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 8.30.49 PM.png"0#
+
+CCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 9.27.50 PM.png" "Screen shot 2010-12-22 at 9.27.50 PM.png"
+s314806837.767384
+e314806838.071488
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 9.27.50 PM.png
+xScreen shot 2010-12-22 at 9.27.50 PM.png
+lSLF07#2@139"CopyPNGFile "build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 9.27.50 PM.png" "Screen shot 2010-12-22 at 9.27.50 PM.png"314806837#314806838#0(0"0(0#0#79"/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 9.27.50 PM.png8638131200#633"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 9.27.50 PM.png" "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2010-12-22 at 9.27.50 PM.png"0#
+
+CCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.23.28 PM.png" "Screen shot 2011-01-01 at 12.23.28 PM.png"
+s316491447.400463
+e316491447.680876
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.23.28 PM.png
+xScreen shot 2011-01-01 at 12.23.28 PM.png
+lSLF07#2@141"CopyPNGFile "build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.23.28 PM.png" "Screen shot 2011-01-01 at 12.23.28 PM.png"316491447#316491447#0(0"0(0#0#80"/Users/ericblanton/Documents/CatYears2/Screen shot 2011-01-01 at 12.23.28 PM.png8620851200#635"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/ericblanton/Documents/CatYears2/Screen shot 2011-01-01 at 12.23.28 PM.png" "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.23.28 PM.png"0#
+
+CCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.26.58 PM.png" "Screen shot 2011-01-01 at 12.26.58 PM.png"
+s316491447.221030
+e316491447.699003
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.26.58 PM.png
+xScreen shot 2011-01-01 at 12.26.58 PM.png
+lSLF07#2@141"CopyPNGFile "build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.26.58 PM.png" "Screen shot 2011-01-01 at 12.26.58 PM.png"316491447#316491447#0(0"0(0#0#80"/Users/ericblanton/Documents/CatYears2/Screen shot 2011-01-01 at 12.26.58 PM.png8608967424#635"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/ericblanton/Documents/CatYears2/Screen shot 2011-01-01 at 12.26.58 PM.png" "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.26.58 PM.png"0#
+
+CCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.29.42 PM.png" "Screen shot 2011-01-01 at 12.29.42 PM.png"
+s316491447.680973
+e316491448.041683
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.29.42 PM.png
+xScreen shot 2011-01-01 at 12.29.42 PM.png
+lSLF07#2@141"CopyPNGFile "build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.29.42 PM.png" "Screen shot 2011-01-01 at 12.29.42 PM.png"316491447#316491448#0(0"0(0#0#80"/Users/ericblanton/Documents/CatYears2/Screen shot 2011-01-01 at 12.29.42 PM.png8615330720#635"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/ericblanton/Documents/CatYears2/Screen shot 2011-01-01 at 12.29.42 PM.png" "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Screen shot 2011-01-01 at 12.29.42 PM.png"0#
+
+CCopyPNGFile "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Sugar Button.png" "Sugar Button.png"
+s314819730.604672
+e314819730.696552
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Sugar Button.png
+xSugar Button.png
+lSLF07#2@91"CopyPNGFile "build/Distribution-iphoneos/CatYears2.app/Sugar Button.png" "Sugar Button.png"314819730#314819730#0(0"0(0#0#55"/Users/ericblanton/Documents/CatYears2/Sugar Button.png8641726176#585"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/ericblanton/Documents/CatYears2/Sugar Button.png" "/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Sugar Button.png"0#
+
+CCopyPNGFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Default.png Default.png
+s314806838.048265
+e314806838.407217
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Default.png
+xDefault.png
+lSLF07#2@77"CopyPNGFile build/Distribution-iphoneos/CatYears2.app/Default.png Default.png314806838#314806838#0(0"0(0#0#50"/Users/ericblanton/Documents/CatYears2/Default.png8636242272#571"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ericblanton/Documents/CatYears2/Default.png /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Default.png0#
+
+CCopyPNGFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon-72.png Icon-72.png
+s314806838.071577
+e314806838.106836
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon-72.png
+xIcon-72.png
+lSLF07#2@77"CopyPNGFile build/Distribution-iphoneos/CatYears2.app/Icon-72.png Icon-72.png314806838#314806838#0(0"0(0#0#50"/Users/ericblanton/Documents/CatYears2/Icon-72.png8635841600#571"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ericblanton/Documents/CatYears2/Icon-72.png /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon-72.png0#
+
+CCopyPNGFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon.png Icon.png
+s314806838.019531
+e314806838.048166
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon.png
+xIcon.png
+lSLF07#2@71"CopyPNGFile build/Distribution-iphoneos/CatYears2.app/Icon.png Icon.png314806838#314806838#0(0"0(0#0#47"/Users/ericblanton/Documents/CatYears2/Icon.png8637062752#565"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ericblanton/Documents/CatYears2/Icon.png /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon.png0#
+
+CCopyPNGFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon@2x.png Icon@2x.png
+s316491550.868828
+e316491550.899092
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@77"CopyPNGFile build/Distribution-iphoneos/CatYears2.app/Icon@2x.png Icon@2x.png316491550#316491550#0(0"0(0#0#50"/Users/ericblanton/Documents/CatYears2/Icon@2x.png28429445101453416#571"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ericblanton/Documents/CatYears2/Icon@2x.png /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Icon@2x.png0#
+
+CCopyPNGFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/SugarButton.png SugarButton.png
+s314806837.619172
+e314806837.702048
+r1
+xCopyPNGFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/SugarButton.png
+xSugarButton.png
+lSLF07#2@85"CopyPNGFile build/Distribution-iphoneos/CatYears2.app/SugarButton.png SugarButton.png314806837#314806837#0(0"0(0#0#54"/Users/ericblanton/Documents/CatYears2/SugarButton.png8639295264#579"    cd /Users/ericblanton/Documents/CatYears2    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/ericblanton/Documents/CatYears2/SugarButton.png /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/SugarButton.png0#
+
+CCpResource build/Distribution-iphoneos/CatYears2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s314806835.249818
+e314806835.283212
+r1
+xCpResource
+xbuild/Distribution-iphoneos/CatYears2.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist314806835#314806835#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8640048320#510"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app0#
+
+CCreateUniversalBinary /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/CatYears2 normal "armv6 armv7"
+s316491450.266291
+e316491450.304439
+r1
+xCreateUniversalBinary
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/CatYears2
+xnormal
+xarmv6 armv7
+lSLF07#2@94"CreateUniversalBinary build/Distribution-iphoneos/CatYears2.app/CatYears2 normal "armv6 armv7"316491450#316491450#0(0"0(0#0#50"/Users/ericblanton/Documents/CatYears2/armv6 armv78614381280#555"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2 /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2 -output /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/CatYears20#
+
+CGenerateDSYMFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app.dSYM /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/CatYears2
+s316491450.304549
+e316491450.376778
+r1
+xGenerateDSYMFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app.dSYM
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/CatYears2
+lSLF07#2@115"GenerateDSYMFile build/Distribution-iphoneos/CatYears2.app.dSYM build/Distribution-iphoneos/CatYears2.app/CatYears2316491450#316491450#0(0"0(0#0#90"/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/CatYears28614107072#382"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/CatYears2 -o /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app.dSYM0#
+
+CLd /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2 normal armv6
+s316491449.586292
+e316491450.256297
+r1
+xLd
+x/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2
+xnormal
+xarmv6
+lSLF07#2@134"Link /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2316491449#316491450#0(0"0(0#0#0"8608588192#914"    cd /Users/ericblanton/Documents/CatYears2    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -F/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -filelist /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears2.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework iAd -o /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv6/CatYears20#
+
+CLd /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2 normal armv7
+s316491449.745260
+e316491450.266181
+r1
+xLd
+x/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2
+xnormal
+xarmv7
+lSLF07#2@134"Link /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2316491449#316491450#0(0"0(0#0#0"8614975040#914"    cd /Users/ericblanton/Documents/CatYears2    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -F/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -filelist /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears2.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework iAd -o /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/Objects-normal/armv7/CatYears20#
+
+CProcessInfoPlistFile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Info.plist CatYears2-Info.plist
+s316491446.713264
+e316491446.717425
+r1
+xProcessInfoPlistFile
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Info.plist
+xCatYears2-Info.plist
+lSLF07#2@28"Process CatYears2-Info.plist316491446#316491446#0(0"0(0#0#59"/Users/ericblanton/Documents/CatYears2/CatYears2-Info.plist8616557856#591"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CatYears2-Info.plist -genpkginfo /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/ResourceRules.plist -o /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/Info.plist0#
+
+CProcessPCH /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-bcpuexldkfytvzcrtfmmmdihzcal/CatYears2_Prefix.pch.gch CatYears2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314806838.407447
+e314806839.989111
+r1
+xProcessPCH
+x/var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-bcpuexldkfytvzcrtfmmmdihzcal/CatYears2_Prefix.pch.gch
+xCatYears2_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile CatYears2_Prefix.pch314806838#314806839#0(0"0(0#0#59"/Users/ericblanton/Documents/CatYears2/CatYears2_Prefix.pch8634630880#1757"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -I/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources/armv6 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/ericblanton/Documents/CatYears2/CatYears2_Prefix.pch -o /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-bcpuexldkfytvzcrtfmmmdihzcal/CatYears2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-bzayhfzzfdmpcebrurahtievwuup/CatYears2_Prefix.pch.gch CatYears2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314806838.408658
+e314806840.139763
+r1
+xProcessPCH
+x/var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-bzayhfzzfdmpcebrurahtievwuup/CatYears2_Prefix.pch.gch
+xCatYears2_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile CatYears2_Prefix.pch314806838#314806840#0(0"0(0#0#59"/Users/ericblanton/Documents/CatYears2/CatYears2_Prefix.pch8633081312#1757"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -I/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources/armv7 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/ericblanton/Documents/CatYears2/CatYears2_Prefix.pch -o /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-bzayhfzzfdmpcebrurahtievwuup/CatYears2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ejhpazorfwqobmbagpthjwzgqulu/CatYears2_Prefix.pch.gch CatYears2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s316491448.041806
+e316491449.109015
+r1
+xProcessPCH
+x/var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ejhpazorfwqobmbagpthjwzgqulu/CatYears2_Prefix.pch.gch
+xCatYears2_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile CatYears2_Prefix.pch316491448#316491449#0(0"0(0#0#59"/Users/ericblanton/Documents/CatYears2/CatYears2_Prefix.pch8613144000#1757"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -I/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources/armv6 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/ericblanton/Documents/CatYears2/CatYears2_Prefix.pch -o /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ejhpazorfwqobmbagpthjwzgqulu/CatYears2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ekmsrixxjeggjbaadgqhdqtvpcld/CatYears2_Prefix.pch.gch CatYears2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s316491448.042916
+e316491449.191494
+r1
+xProcessPCH
+x/var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ekmsrixxjeggjbaadgqhdqtvpcld/CatYears2_Prefix.pch.gch
+xCatYears2_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile CatYears2_Prefix.pch316491448#316491449#0(0"0(0#0#59"/Users/ericblanton/Documents/CatYears2/CatYears2_Prefix.pch8609661472#1757"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos -I/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources/armv7 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/ericblanton/Documents/CatYears2/CatYears2_Prefix.pch -o /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ekmsrixxjeggjbaadgqhdqtvpcld/CatYears2_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/ericblanton/Library/MobileDevice/Provisioning Profiles/5D81DBF0-A9A8-4236-ACA7-F2CAC893D6A0.mobileprovision" /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/embedded.mobileprovision
+s314806840.759366
+e314806840.788157
+r1
+xProcessProductPackaging
+x/Users/ericblanton/Library/MobileDevice/Provisioning Profiles/5D81DBF0-A9A8-4236-ACA7-F2CAC893D6A0.mobileprovision
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/ericblanton/Library/MobileDevice/Provisioning Profiles/5D81DBF0-A9A8-4236-ACA7-F2CAC893D6A0.mobileprovision" build/Distribution-iphoneos/CatYears2.app/embedded.mobileprovision314806840#314806840#0(0"0(0#0#105"/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/embedded.mobileprovision8639907072#438"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/ericblanton/Library/MobileDevice/Provisioning Profiles/5D81DBF0-A9A8-4236-ACA7-F2CAC893D6A0.mobileprovision" -o /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/ericblanton/Library/MobileDevice/Provisioning Profiles/C9123998-BF0B-48A8-A273-375C3C83320A.mobileprovision" /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/embedded.mobileprovision
+s314806956.936498
+e314806957.006147
+r1
+xProcessProductPackaging
+x/Users/ericblanton/Library/MobileDevice/Provisioning Profiles/C9123998-BF0B-48A8-A273-375C3C83320A.mobileprovision
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/ericblanton/Library/MobileDevice/Provisioning Profiles/C9123998-BF0B-48A8-A273-375C3C83320A.mobileprovision" build/Distribution-iphoneos/CatYears2.app/embedded.mobileprovision314806956#314806957#0(0"0(0#0#105"/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/embedded.mobileprovision8628434688#438"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/ericblanton/Library/MobileDevice/Provisioning Profiles/C9123998-BF0B-48A8-A273-375C3C83320A.mobileprovision" -o /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2.xcent
+s316491450.380311
+e316491450.393206
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2.xcent
+lSLF07#2@188"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2.xcent316491450#316491450#0(0"0(0#0#114"/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2.xcent8620320032#445"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Distribution-iphoneos/CatYears2.build/CatYears2.xcent0#
+
+CTouch /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app
+s316491550.900245
+e316491550.903066
+r1
+xTouch
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app
+lSLF07#2@86"Touch /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app316491550#316491550#0(0"0(0#0#0"8618211904#273"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app0#
+
+CValidate /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app
+s316713956.140113
+e316713956.770533
+r1
+xValidate
+x/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app
+lSLF07#2@50"Validate build/Distribution-iphoneos/CatYears2.app316713956#316713956#0(0"0(0#0#80"/Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app8635493728#382"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/ericblanton/Documents/CatYears2/build/Distribution-iphoneos/CatYears2.app0#
+

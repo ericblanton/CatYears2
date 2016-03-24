@@ -1,0 +1,368 @@
+TCatYears2
+v7
+r0
+t314746557.335376
+cCheck dependencies
+cProcessInfoPlistFile /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/Info.plist CatYears2-Info.plist
+cCompileXIB /Users/ericblanton/Documents/CatYears2/MainWindow.xib
+cCompileXIB /Users/ericblanton/Documents/CatYears2/CatYears2ViewController.xib
+cCpResource "build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 1.22.39 PM.png" "Screen shot 2010-12-22 at 1.22.39 PM.png"
+cCpResource "build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 1.57.53 PM.png" "Screen shot 2010-12-22 at 1.57.53 PM.png"
+cCpResource "build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 2.05.02 PM.png" "Screen shot 2010-12-22 at 2.05.02 PM.png"
+cCpResource "build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 2.07.24 PM.png" "Screen shot 2010-12-22 at 2.07.24 PM.png"
+cCpResource "build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 3.55.49 PM.png" "Screen shot 2010-12-22 at 3.55.49 PM.png"
+cCpResource build/Debug-iphonesimulator/CatYears2.app/SugarButton.png SugarButton.png
+cProcessPCH /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ektxwsofwlbtycbjmaspkmufuoym/CatYears2_Prefix.pch.gch CatYears2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/main.o /Users/ericblanton/Documents/CatYears2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/CatYears2AppDelegate.o /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/CatYears2ViewController.o /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/iAd.framework/Headers/iAd.h
+c000000004C6C305C0000000000000071
+t1282158684
+s113
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004C6C30600000000000057F80
+t1282158688
+s360320
+
+N/Users/ericblanton/Documents/CatYears2/CatYears2ViewController.xib
+c000000004D126F34000000000000950B
+t1293053748
+s38155
+
+N/Users/ericblanton/Documents/CatYears2/CatYears2_Prefix.pch
+c000000004D12425700000000000000BB
+t1293042263
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.h
+c000000004D12425700000000000001EC
+t1293042263
+s492
+i<UIKit/UIKit.h>
+
+N/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m
+c000000004D1242570000000000000A96
+t1293042263
+s2710
+i"CatYears2AppDelegate.h"
+i"CatYears2ViewController.h"
+
+N/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h
+c000000004D126E2E000000000000028B
+t1293053486
+s651
+i<UIKit/UIKit.h>
+i<iAd/iAd.h>
+
+N/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m
+c000000004D126F3A0000000000002068
+t1293053754
+s8296
+i"CatYears2ViewController.h"
+
+N/Users/ericblanton/Documents/CatYears2/MainWindow.xib
+c000000004D1242570000000000004E41
+t1293042263
+s20033
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 1.22.39 PM.png
+c000000004D1242370000000000019CBA
+t1293042231
+s105658
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 1.57.53 PM.png
+c000000004D124A660000000000020157
+t1293044326
+s131415
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 2.05.02 PM.png
+c000000004D124C11000000000002111A
+t1293044753
+s135450
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 2.07.24 PM.png
+c000000004D124C9D00000000000214DD
+t1293044893
+s136413
+
+N/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 3.55.49 PM.png
+c000000004D126630000000000001E2D2
+t1293051440
+s123602
+
+N/Users/ericblanton/Documents/CatYears2/SugarButton.png
+c000000004D126753000000000000535C
+t1293051731
+s21340
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/CatYears2.LinkFileList
+c000000004D126F3A000000000000019D
+t1293053754
+s413
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/CatYears2AppDelegate.o
+t2
+s0
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/CatYears2ViewController.o
+t2
+s0
+
+N/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/main.o
+t1293053757
+s6304
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app
+t2
+s0
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app.dSYM
+t2
+s0
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/CatYears2
+t2
+s0
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/CatYears2ViewController.nib
+t1293053755
+s6277
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/Info.plist
+t1293053754
+s599
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/MainWindow.nib
+t1293053755
+s1685
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/PkgInfo
+t1293053754
+s8
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 1.22.39 PM.png
+t1293053755
+s105658
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 1.57.53 PM.png
+t1293053755
+s131415
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 2.05.02 PM.png
+t1293053755
+s135450
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 2.07.24 PM.png
+t1293053755
+s136413
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 3.55.49 PM.png
+t1293053755
+s123602
+
+N/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/SugarButton.png
+t1293053755
+s21340
+
+N/Users/ericblanton/Documents/CatYears2/main.m
+c000000004D124257000000000000016C
+t1293042263
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ektxwsofwlbtycbjmaspkmufuoym/CatYears2_Prefix.pch.gch
+t1293053757
+s15211536
+
+NCatYears2-Info.plist
+c000000004D124257000000000000038D
+t1293042263
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314746554#314746554#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/CatYears2AppDelegate.o /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314746557.171422
+e314746557.265232
+r0
+xCompileC
+xbuild/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/CatYears2AppDelegate.o
+x/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m:10:
+o/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h:37: error: expected identifier or '(' before '}' token
+o/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h:39: warning: '@end' must appear in an @implementation context
+lSLF07#2@77"Compile /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m314746557#314746557#0(359"In file included from /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m:10:/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h:37: error: expected identifier or '(' before '}' token/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h:39: warning: '@end' must appear in an @implementation context2(4@43"Expected identifier or '(' before '}' token314746557#96#128#2(7@91"In file included from /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m314746557#18446744073709551615#0#0(6@69"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m314735063#10#0#10#0#0"0(13@119"Expected identifier or '(' before '}' token in /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h314746557#18446744073709551615#0#0(6@72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h314746286#37#0#37#0#0"0(6@72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h314746286#37#0#37#0#19"expected * before *0(22@48"'@end' must appear in an @implementation context314746557#224#135#2(7@91"In file included from /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m314746557#18446744073709551615#0#0(6@69"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m314735063#10#0#10#0#0"0(13@124"'@end' must appear in an @implementation context in /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h314746557#18446744073709551615#0#0(6@72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h314746286#39#0#39#0#0"0(6@72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h314746286#39#0#39#0#0"0(0#0#69"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m8615745152#1994"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator -I/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/DerivedSources/i386 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/DerivedSources -include /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ektxwsofwlbtycbjmaspkmufuoym/CatYears2_Prefix.pch -c /Users/ericblanton/Documents/CatYears2/Classes/CatYears2AppDelegate.m -o /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/CatYears2AppDelegate.o1#
+
+CCompileC build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/CatYears2ViewController.o /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314746557.265320
+e314746557.335270
+r0
+xCompileC
+xbuild/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/CatYears2ViewController.o
+x/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m:9:
+o/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h:37: error: expected identifier or '(' before '}' token
+o/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h:39: warning: '@end' must appear in an @implementation context
+o/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m:316: warning: incomplete implementation of class 'CatYears2ViewController'
+o/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m:316: warning: method definition for '-openSafari' not found
+lSLF07#2@80"Compile /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m314746557#314746557#0(642"In file included from /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m:9:/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h:37: error: expected identifier or '(' before '}' token/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h:39: warning: '@end' must appear in an @implementation context/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m:316: warning: incomplete implementation of class 'CatYears2ViewController'/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m:316: warning: method definition for '-openSafari' not found4(4@43"Expected identifier or '(' before '}' token314746557#98#128#2(7@94"In file included from /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m314746557#18446744073709551615#0#0(6@72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m314746554#9#0#9#0#0"0(13@119"Expected identifier or '(' before '}' token in /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h314746557#18446744073709551615#0#0(6@72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h314746286#37#0#37#0#0"0(6@72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h314746286#37#0#37#0#19"expected * before *0(22@48"'@end' must appear in an @implementation context314746557#226#135#2(7@94"In file included from /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m314746557#18446744073709551615#0#0(6@72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m314746554#9#0#9#0#0"0(13@124"'@end' must appear in an @implementation context in /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h314746557#18446744073709551615#0#0(6@72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h314746286#39#0#39#0#0"0(6@72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.h314746286#39#0#39#0#0"0(22@60"Incomplete implementation of class 'CatYears2ViewController'314746557#361#148#0(6@72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m314746554#316#0#316#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-openSafari' not found314746557#509#133#0(6@72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m314746554#316#0#316#0#35"method definition for '*' not found0(0#0#72"/Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m8614311616#2000"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator -I/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/DerivedSources/i386 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/DerivedSources -include /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ektxwsofwlbtycbjmaspkmufuoym/CatYears2_Prefix.pch -c /Users/ericblanton/Documents/CatYears2/Classes/CatYears2ViewController.m -o /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/CatYears2ViewController.o1#
+
+CCompileC build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/main.o /Users/ericblanton/Documents/CatYears2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314746557.170328
+e314746557.266334
+r1
+xCompileC
+xbuild/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/main.o
+x/Users/ericblanton/Documents/CatYears2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/ericblanton/Documents/CatYears2/main.m314746557#314746557#0(0"0(0#0#45"/Users/ericblanton/Documents/CatYears2/main.m8618120320#1954"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator -I/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/DerivedSources/i386 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/DerivedSources -include /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ektxwsofwlbtycbjmaspkmufuoym/CatYears2_Prefix.pch -c /Users/ericblanton/Documents/CatYears2/main.m -o /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ericblanton/Documents/CatYears2/CatYears2ViewController.xib
+s314746554.438432
+e314746555.391295
+r1
+xCompileXIB
+x/Users/ericblanton/Documents/CatYears2/CatYears2ViewController.xib
+lSLF07#2@38"CompileXIB CatYears2ViewController.xib314746554#314746555#0(0"0(0#0#66"/Users/ericblanton/Documents/CatYears2/CatYears2ViewController.xib8617503168#598"    cd /Users/ericblanton/Documents/CatYears2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/CatYears2ViewController.nib /Users/ericblanton/Documents/CatYears2/CatYears2ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/ericblanton/Documents/CatYears2/MainWindow.xib
+s314746554.437600
+e314746555.204297
+r1
+xCompileXIB
+x/Users/ericblanton/Documents/CatYears2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314746554#314746555#0(0"0(0#0#53"/Users/ericblanton/Documents/CatYears2/MainWindow.xib8618069696#572"    cd /Users/ericblanton/Documents/CatYears2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/MainWindow.nib /Users/ericblanton/Documents/CatYears2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 1.22.39 PM.png" "Screen shot 2010-12-22 at 1.22.39 PM.png"
+s314746555.204403
+e314746555.210634
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 1.22.39 PM.png
+xScreen shot 2010-12-22 at 1.22.39 PM.png
+lSLF07#2@45"Copy Screen shot 2010-12-22 at 1.22.39 PM.png314746555#314746555#0(0"0(0#0#79"/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 1.22.39 PM.png8615877056#488"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 1.22.39 PM.png" /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app0#
+
+CCpResource "build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 1.57.53 PM.png" "Screen shot 2010-12-22 at 1.57.53 PM.png"
+s314746555.205193
+e314746555.219630
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 1.57.53 PM.png
+xScreen shot 2010-12-22 at 1.57.53 PM.png
+lSLF07#2@45"Copy Screen shot 2010-12-22 at 1.57.53 PM.png314746555#314746555#0(0"0(0#0#79"/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 1.57.53 PM.png8615587776#488"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 1.57.53 PM.png" /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app0#
+
+CCpResource "build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 2.05.02 PM.png" "Screen shot 2010-12-22 at 2.05.02 PM.png"
+s314746555.205797
+e314746555.221305
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 2.05.02 PM.png
+xScreen shot 2010-12-22 at 2.05.02 PM.png
+lSLF07#2@45"Copy Screen shot 2010-12-22 at 2.05.02 PM.png314746555#314746555#0(0"0(0#0#79"/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 2.05.02 PM.png8615217344#488"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 2.05.02 PM.png" /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app0#
+
+CCpResource "build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 2.07.24 PM.png" "Screen shot 2010-12-22 at 2.07.24 PM.png"
+s314746555.206386
+e314746555.215053
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 2.07.24 PM.png
+xScreen shot 2010-12-22 at 2.07.24 PM.png
+lSLF07#2@45"Copy Screen shot 2010-12-22 at 2.07.24 PM.png314746555#314746555#0(0"0(0#0#79"/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 2.07.24 PM.png8614873216#488"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 2.07.24 PM.png" /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app0#
+
+CCpResource "build/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 3.55.49 PM.png" "Screen shot 2010-12-22 at 3.55.49 PM.png"
+s314746555.206984
+e314746555.216671
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CatYears2.app/Screen shot 2010-12-22 at 3.55.49 PM.png
+xScreen shot 2010-12-22 at 3.55.49 PM.png
+lSLF07#2@45"Copy Screen shot 2010-12-22 at 3.55.49 PM.png314746555#314746555#0(0"0(0#0#79"/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 3.55.49 PM.png8614717504#488"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/ericblanton/Documents/CatYears2/Screen shot 2010-12-22 at 3.55.49 PM.png" /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app0#
+
+CCpResource build/Debug-iphonesimulator/CatYears2.app/SugarButton.png SugarButton.png
+s314746555.208630
+e314746555.219847
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CatYears2.app/SugarButton.png
+xSugarButton.png
+lSLF07#2@20"Copy SugarButton.png314746555#314746555#0(0"0(0#0#54"/Users/ericblanton/Documents/CatYears2/SugarButton.png8614594048#461"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ericblanton/Documents/CatYears2/SugarButton.png /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app0#
+
+CGenerateDSYMFile /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app.dSYM /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/CatYears2
+r0
+
+CLd /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/CatYears2 normal i386
+r0
+
+CProcessInfoPlistFile /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/Info.plist CatYears2-Info.plist
+s314746554.402917
+e314746554.437513
+r1
+xProcessInfoPlistFile
+x/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/Info.plist
+xCatYears2-Info.plist
+lSLF07#2@28"Process CatYears2-Info.plist314746554#314746554#0(0"0(0#0#59"/Users/ericblanton/Documents/CatYears2/CatYears2-Info.plist31244169098821736#485"    cd /Users/ericblanton/Documents/CatYears2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CatYears2-Info.plist -genpkginfo /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app/Info.plist0#
+
+CProcessPCH /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ektxwsofwlbtycbjmaspkmufuoym/CatYears2_Prefix.pch.gch CatYears2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314746555.391523
+e314746557.170117
+r1
+xProcessPCH
+x/var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ektxwsofwlbtycbjmaspkmufuoym/CatYears2_Prefix.pch.gch
+xCatYears2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile CatYears2_Prefix.pch314746555#314746557#0(0"0(0#0#59"/Users/ericblanton/Documents/CatYears2/CatYears2_Prefix.pch8618718432#1844"    cd /Users/ericblanton/Documents/CatYears2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-generated-files.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-own-target-headers.hmap -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-all-target-headers.hmap -iquote /Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/CatYears2-project-headers.hmap -F/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator -I/Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/include -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/DerivedSources/i386 -I/Users/ericblanton/Documents/CatYears2/build/CatYears2.build/Debug-iphonesimulator/CatYears2.build/DerivedSources -c /Users/ericblanton/Documents/CatYears2/CatYears2_Prefix.pch -o /var/folders/Mz/MzbeDUmvGwaiJMe1CITSDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CatYears2_Prefix-ektxwsofwlbtycbjmaspkmufuoym/CatYears2_Prefix.pch.gch0#
+
+CTouch /Users/ericblanton/Documents/CatYears2/build/Debug-iphonesimulator/CatYears2.app
+r0
+

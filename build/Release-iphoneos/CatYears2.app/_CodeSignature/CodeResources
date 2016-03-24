@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>CatYears2ViewController.nib</key>
+		<data>
+		SuB4jrrXS8kbTpaiHC5ZykxDPGM=
+		</data>
+		<key>Default.png</key>
+		<data>
+		SFDDEfBjbwuHZxUM4MzEAmwOJdY=
+		</data>
+		<key>Icon-72.png</key>
+		<data>
+		LUhV5ZKD3Tr5P2alUxtrxPh1ju4=
+		</data>
+		<key>Icon.png</key>
+		<data>
+		XGxHIdV4O4eMNp0vDMBKdssBHNs=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		dkn++hqfHLKGoRKZGSPXYmw4EUg=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Screen shot 2010-12-22 at 1.22.39 PM.png</key>
+		<data>
+		BUxTxFYObEvg5ZjVr9wE+k6HgE4=
+		</data>
+		<key>Screen shot 2010-12-22 at 1.57.53 PM.png</key>
+		<data>
+		gnquaVlHRDmI8da+91nT34Y+Ayw=
+		</data>
+		<key>Screen shot 2010-12-22 at 2.05.02 PM.png</key>
+		<data>
+		jZEiC4TB+jU3c0gYNRN4Z1tn5EY=
+		</data>
+		<key>Screen shot 2010-12-22 at 2.07.24 PM.png</key>
+		<data>
+		vZKlwPjBAUr3ZMoSrWqUKbFozEY=
+		</data>
+		<key>Screen shot 2010-12-22 at 3.55.49 PM.png</key>
+		<data>
+		ZYUeObbZT8UYq8XgkIdO6AkkT4k=
+		</data>
+		<key>Screen shot 2010-12-22 at 8.30.49 PM.png</key>
+		<data>
+		dowafsbV1EZsOsFgJ4cQyuZIJsQ=
+		</data>
+		<key>Screen shot 2010-12-22 at 9.27.50 PM.png</key>
+		<data>
+		Wrmv1CIAiz36+CaDxWRJaUGqcp4=
+		</data>
+		<key>Sugar Button.png</key>
+		<data>
+		SXBTduGWhFhYLMFjWA0X0UIqLFQ=
+		</data>
+		<key>SugarButton.png</key>
+		<data>
+		NL7SGOPqv0EqH6cf59dPsc2gzxo=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		1Cb9LB5Frk2woxrEWwnvhRyng+0=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
